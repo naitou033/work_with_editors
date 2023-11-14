@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+h1{
+    border-left: 100px solid blue;
+    padding-left: 10px;
+}
+img{
+    width: 100px;
+}
